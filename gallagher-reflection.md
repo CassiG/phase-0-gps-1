@@ -18,4 +18,4 @@ Merging conflicts still confuses me just a bit, like when you see a conflict or 
 
 5. How was your first experience of pairing in a GPS?
 
-My first expirience was great. My pairing partner, Lindsey was great to communicate with and I thought we did a good job sharing knowlege/helping out back and forth. Our Guide Helin was great as well and did a great job of jumping in only when we seemed really confused, and let us work things out when we seemed to be on the right track. 
+My first expirience was great. My pairing partner, Lindsay was great to communicate with and I thought we did a good job sharing knowlege/helping out back and forth. Our Guide Helin was great as well and did a great job of jumping in only when we seemed really confused, and let us work things out when we seemed to be on the right track. 

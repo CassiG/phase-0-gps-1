@@ -2,7 +2,8 @@
 
 Our first guided pairing session is going **great!**
 
-Let's make something _italic so it's emphasized_. Making more changeeeeeeez.
+Let's make something _italic so it's emphasized_. Makin changeeeeeeez.
+
 
 ``` <ul>
 		<li>mondays are the worst</li>
